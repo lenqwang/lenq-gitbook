@@ -1,0 +1,13 @@
+{
+	"title": "How to use seajs",
+	"language": "zh",
+    "plugins": [
+    	"github",
+        "maxiang"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/qqcome110/lenq-gitbook"
+        }
+    }
+}
